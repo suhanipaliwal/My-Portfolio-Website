@@ -1,2 +1,3 @@
-# Calculator
-This is a simple calculator made using python.
+# My Portfolio Website
+This is a simple Portfolio website which showcases my skills and projects. 
+Still in progress.....
